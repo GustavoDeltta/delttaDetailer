@@ -148,7 +148,7 @@ CREATE TABLE services (
 ```
 
 #### 2. **Tabela `appointments`**
-Armazena os recheios disponíveis para cada tipo de comida.
+Armazena os agendamentos realizados.
 
 ```sql
 CREATE TABLE appointments (
